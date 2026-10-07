@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Prashun
 
-GitHub: @YOUR_USERNAME
+GitHub: @prashunshukla8882
 🙏 Acknowledgments
 Thanks to everyone who tests and provides feedback
 Inspired by the need for transparent second-hand laptop verification
