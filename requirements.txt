@@ -1,0 +1,14 @@
+# No external dependencies required!
+# Uses only Python standard library:
+# - tkinter (included with Python)
+# - subprocess
+# - platform
+# - os
+# - datetime
+# - webbrowser
+# - threading
+# - time
+# - re
+
+# For building executable:
+# pyinstaller

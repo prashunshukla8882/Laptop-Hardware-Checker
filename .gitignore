@@ -1,0 +1,27 @@
+# Build files
+build/
+dist/
+*.spec
+*.exe
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated reports
+Laptop_Report_*.html
+Laptop_Report_*.txt
